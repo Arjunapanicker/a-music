@@ -1,0 +1,16 @@
+.note
+{
+    font-size: 15px;
+    color: aquamarine;
+
+}
+body
+{
+    background-size: cover;
+
+}
+.play_button
+{
+    width: 130px;
+    font-size: 20px;
+}
